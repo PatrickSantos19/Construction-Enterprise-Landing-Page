@@ -1,2 +1,2 @@
 # Construction-Enterprise-Landing-Page
-A Simple Ladning Page about a Construction Enterprise
+A Simple Landing Page about a Construction Enterprise
